@@ -5,5 +5,4 @@ I'm currently a postdoc at the Earlham Institue/Quadram Institute in Norwich
   - a python package to reapply and generate new [Enterosignatures](https://enterosignatures.quadram.ac.uk/)
 - 🌱 I’m currently learning
   - rust 🦀
-  - nextflow
   - to play drums 🥁
